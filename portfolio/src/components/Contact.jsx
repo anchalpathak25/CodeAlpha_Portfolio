@@ -33,7 +33,7 @@ function Contact() {
           <div className="flex items-center gap-4">
             <Mail className="text-cyan-500" size={28} />
             <span>
-              anchalpathak8934@gmail.com
+              abcd@gmail.com
             </span>
           </div>
 
